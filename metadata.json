@@ -1,0 +1,6 @@
+{
+  "name": "Sogni d'Oro",
+  "description": "Un'app per il monitoraggio serale e il miglioramento dell'igiene del sonno.",
+  "requestFramePermissions": ["identity-credentials-get"],
+  "majorCapabilities": []
+}
